@@ -1,4 +1,4 @@
-<h1>Oklink</h1>
+<h1>Bihang</h1>
 
 {capture name=dialog}
 <form action="cc_processing.php?cc_processor={$smarty.get.cc_processor|escape:"url"}" method="post">
